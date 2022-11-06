@@ -93,7 +93,6 @@ export default class Calculator extends Component {
 
       this.setState({ displayValue, operation, values, current: 0 })
     }
-    console.log(this.state)
   }
 
   render() {
