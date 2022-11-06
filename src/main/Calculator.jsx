@@ -15,6 +15,7 @@ export default class Calculator extends Component {
 
   constructor(props) {
     super(props)
+
     this.clearMemory = this.clearMemory.bind(this)
     this.addDigit = this.addDigit.bind(this)
     this.setOperation = this.setOperation.bind(this)
@@ -50,7 +51,7 @@ export default class Calculator extends Component {
     if (n !== '.') {
       const i = this.state.current
       const newValue = parseFloat(displayValue)
-      const values = [... this.state.values]
+      const values = [...this.state.values]
       values[i] = newValue
       this.setState({ values })
     }
@@ -79,6 +80,7 @@ export default class Calculator extends Component {
           break
         case '+':
           result = firstValue + secondValue
+          break
       }
 
       let stringResult = result.toString()
