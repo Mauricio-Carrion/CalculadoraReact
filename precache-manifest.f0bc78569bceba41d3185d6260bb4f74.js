@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/CalculadoraReact/static/media/RobotoMono-Thin.d1a7b45f.ttf"
   },
   {
-    "revision": "f92b5213fa459accb76609b090dc63dd",
+    "revision": "49256967620357bc9bd2ea40cd275c14",
     "url": "/CalculadoraReact/index.html"
   }
 ];
