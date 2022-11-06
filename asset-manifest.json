@@ -1,7 +1,7 @@
 {
   "main.css": "/CalculadoraReact/static/css/main.09e69bde.chunk.css",
-  "main.js": "/CalculadoraReact/static/js/main.3901dc3f.chunk.js",
-  "main.js.map": "/CalculadoraReact/static/js/main.3901dc3f.chunk.js.map",
+  "main.js": "/CalculadoraReact/static/js/main.afd87c16.chunk.js",
+  "main.js.map": "/CalculadoraReact/static/js/main.afd87c16.chunk.js.map",
   "static/js/1.ce9c03ff.chunk.js": "/CalculadoraReact/static/js/1.ce9c03ff.chunk.js",
   "static/js/1.ce9c03ff.chunk.js.map": "/CalculadoraReact/static/js/1.ce9c03ff.chunk.js.map",
   "runtime~main.js": "/CalculadoraReact/static/js/runtime~main.25919fae.js",
@@ -9,6 +9,6 @@
   "static/media/index.css": "/CalculadoraReact/static/media/RobotoMono-Thin.d1a7b45f.ttf",
   "static/css/main.09e69bde.chunk.css.map": "/CalculadoraReact/static/css/main.09e69bde.chunk.css.map",
   "index.html": "/CalculadoraReact/index.html",
-  "precache-manifest.f0bc78569bceba41d3185d6260bb4f74.js": "/CalculadoraReact/precache-manifest.f0bc78569bceba41d3185d6260bb4f74.js",
+  "precache-manifest.65f954c2eef7ed0826088fc167e0cd61.js": "/CalculadoraReact/precache-manifest.65f954c2eef7ed0826088fc167e0cd61.js",
   "service-worker.js": "/CalculadoraReact/service-worker.js"
 }
